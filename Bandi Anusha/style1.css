@@ -1,0 +1,29 @@
+a:hover{
+    color: aqua;
+}
+a:link{
+    color: chartreuse;
+}
+a:active{
+    color: deeppink;
+}
+a:visited{
+    color: gold;
+}
+#p5{
+    background-color: rgb(30, 210, 69) ;
+    border: solid;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+a{
+    font-family:cursive;
+    background-color: red;
+}
+#p6{
+    background-color: aliceblue;
+    border: 20%;
+}
+header{
+    margin-left: 57%;
+}

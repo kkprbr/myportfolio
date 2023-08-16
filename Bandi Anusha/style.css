@@ -1,0 +1,21 @@
+h1{
+    background-color: aqua;
+    border: ridge black;
+    text-align: center;
+    border-radius: 50px;
+    text-decoration: underline;
+}
+.p{
+    background-color: aquamarine;
+}
+#p1,#p2{
+    background-color: cornsilk;
+    border: solid black;
+}
+#h3::first-letter{
+    font-size: 50px;
+}
+#p3{
+    padding-left: 97%;
+    margin-top: -60px;
+}
